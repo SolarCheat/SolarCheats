@@ -10,7 +10,7 @@ Contact: admin@solarcheats.org (Do not spam our email this is our support email 
 Website: https://solarcheats.org
 
 
-Owner: Gabe1234567891011 (github account)
+Owner: Gabe123456789101112 (github account)
 
 
 
@@ -21,4 +21,4 @@ We are still in beta, for more information, check the owner's GitHub (Gabe123456
 
 
 We reserve the right to blacklist from using our scripts and other services we provide
-For information check our Rules
+For information, check our Rules
