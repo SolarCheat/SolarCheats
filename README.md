@@ -22,3 +22,5 @@ we are still in beta, for more information, check the owner's GitHub (GabeSolarC
 
 We reserve the right to blacklist from using our scripts and other services we provide
 for information, check our Rules
+
+MOST OF THIS IS COPY AND PASTE BUT BE SURE TO CHECK BOTH OF THE REPOSITORIES
