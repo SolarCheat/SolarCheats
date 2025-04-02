@@ -15,7 +15,7 @@ Owner: GabeSolarCheats (github account)
 
 
 About our project
-We are a scripting service to provide your needs for games from Roblox to other games soon
+we are a scripting service to provide your needs for games from Roblox to other games soon
 we are not a cheating service, we do not condone cheating or exploiting in games if you do so using our script, you might result in an in-game ban we cannot control we are providing detection and protection for our users, but an alt (alternative) account is preferred
 we are still in beta, for more information, check the owner's GitHub (GabeSolarCheats) or check our website
 
